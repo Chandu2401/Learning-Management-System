@@ -66,46 +66,6 @@ A complete Learning Management System (LMS) built using PHP, MySQL, HTML, CSS, J
 
 ---
 
-## 📂 Project Structure
-
-```text
-lms-project/
-│
-├── admin/
-│   ├── add-course.php
-│   ├── add-lesson.php
-│   ├── add-quiz.php
-│   ├── users.php
-│   ├── reports.php
-│   └── index.php
-│
-├── assets/
-│   ├── css/
-│   ├── js/
-│
-├── config/
-│   ├── db.php
-│   ├── users.sql
-│   ├── lessons.sql
-│   ├── enrollments.sql
-│   └── quiz_tables.sql
-│
-├── includes/
-│
-├── uploads/
-│
-├── login.php
-├── register.php
-├── dashboard.php
-├── browse-courses.php
-├── course-details.php
-├── my-courses.php
-├── take-quiz.php
-├── download-certificate.php
-└── logout.php
-```
-
----
 
 ## ⚙️ Installation
 
